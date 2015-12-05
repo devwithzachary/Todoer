@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="primary">#ff5722</color>
+    <color name="primary_dark">#bf360c</color>
+    <color name="accent">#ff8a65</color>
+    <color name="actionbar_text">#fff</color>
+
+</resources>

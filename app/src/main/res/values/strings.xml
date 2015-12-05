@@ -1,0 +1,4 @@
+<resources>
+    <string name="app_name">Todoer Pro</string>
+    <string name="button">Add Task</string>
+</resources>
